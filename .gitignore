@@ -1,0 +1,12 @@
+# Node
+/frontend/node_modules
+/backend/node_modules
+
+# Next.js
+/frontend/.next
+
+# Nest.js
+/backend/dist
+
+# OS
+.DS_Store
